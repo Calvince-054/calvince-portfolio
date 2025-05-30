@@ -47,7 +47,12 @@ export default function Portfolio() {
 
         <section className="mb-6">
           <h2 className="text-2xl font-semibold text-gray-700 mb-2">Education & Certifications</h2>
-          <p>BSc in Computer Information Systems – Graduated: 2024</p>
+          <p><li>BSc in Computer Information Systems – : 2024</li></p>
+          <p>Kenya Methodist University</p>
+          <p><li>Kenya Certificate of Secondary Education - : 2018</li></p>
+          <p>St. Augustines Mirogi Boys High School</p>
+          <p><li>Kenya Certificate of Primary Education -   : 2014</li></p>
+          <p>Homa Bay Primary School</p>
         </section>
 
         <section className="mb-6">
