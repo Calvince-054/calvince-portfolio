@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/calvince-portfolio/static/css/main.521df2f5.css",
-    "main.js": "/calvince-portfolio/static/js/main.609727b3.js",
+    "main.js": "/calvince-portfolio/static/js/main.50f37a85.js",
     "static/js/453.41d8d561.chunk.js": "/calvince-portfolio/static/js/453.41d8d561.chunk.js",
     "index.html": "/calvince-portfolio/index.html",
     "main.521df2f5.css.map": "/calvince-portfolio/static/css/main.521df2f5.css.map",
-    "main.609727b3.js.map": "/calvince-portfolio/static/js/main.609727b3.js.map",
+    "main.50f37a85.js.map": "/calvince-portfolio/static/js/main.50f37a85.js.map",
     "453.41d8d561.chunk.js.map": "/calvince-portfolio/static/js/453.41d8d561.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.521df2f5.css",
-    "static/js/main.609727b3.js"
+    "static/js/main.50f37a85.js"
   ]
 }
